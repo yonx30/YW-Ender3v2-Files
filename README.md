@@ -13,8 +13,8 @@ Lack enclosure remixed based on the Ender 3 V2 Ikea Lack 3D Printer Enclosure de
 Uses 560mm x 465mm (22'' x 18.3'') 2mm thick acrylic panels for the sides, and 2x pieces of 280mm x 465mm (11'' x 18.3'') 3mm thick acrylic panels for the front doors. All other printed (eg. magnet holders, handles) and purchased parts (eg. screws, hinges) are used as originally uploaded by moomoo124578 as above.
 
 Printable legs have internal holes that are meant to house embedded M3 Hexagonal Nuts, to help screw the front panel hinges to the enclosure. When slicing the upper and lower legs, the print should be paused at the relevant heights (depending on the layer height used) to allow insertion of the nuts vertically into the print. The print will then bridge over then inserted nuts and embed them. For the pictures below, a pause is inserted after Layer 279 is printed to slot the M3 nut into the highlighted hole.
-![image](https://github.com/yonx30/YW-Ender3v2-Files/assets/27173778/fa87117f-2131-46f5-8207-f8570c41a0a8)
 ![image](https://github.com/yonx30/YW-Ender3v2-Files/assets/27173778/c7e3fd61-9d1c-4adc-86f1-5aa28e71a271)
+![image](https://github.com/yonx30/YW-Ender3v2-Files/assets/27173778/fa87117f-2131-46f5-8207-f8570c41a0a8)
 
 
 ### Motherboard Enclosure
