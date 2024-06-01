@@ -24,6 +24,7 @@ Uses 3x pieces of 20mm x 10mm x 2mm neodynium magnets to hold the cover shut, an
 
 ### MiniMe Hotend Remix
 Remixed User P_design's 5015 MiniMe model - Link: https://www.thingiverse.com/thing:4375296
+
 Allows removal of the duct portion without needing to remove the hotend fan, providing easier access to the hotend (eg. for nozzle changes). Requires M3 hexagonal nuts to be embedded into duct after printing.
 
 
