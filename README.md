@@ -25,6 +25,7 @@ Uses 3x pieces of 20mm x 10mm x 2mm neodynium magnets to hold the cover shut, an
 
 ## Ender 3v2 Jyers Firmware
 Uses Jyers Marlin firmware with modified parameters - Link: https://github.com/Jyers/Marlin/releases
+
 Guide to compiling - Link: https://www.youtube.com/watch?v=so0FfFVEmiw
 
 
